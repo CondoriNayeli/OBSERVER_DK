@@ -1,0 +1,2 @@
+C:\Users\Usuario\OneDrive\unreal\PATRONES\OBSERVER\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\OBSERVER\Source\DonkeyKong_USFX\DonkeyKong_USFX.h
